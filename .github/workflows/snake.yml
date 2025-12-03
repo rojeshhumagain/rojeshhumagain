@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -16,16 +16,27 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Install Node (required for snk)
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Generate Snake Animation (light)
         uses: Platane/snk@v3
         with:
           github_user_name: rojeshhumagain
-          outputs: |
-            output/github-contribution-grid-snake.gif
-            output/github-contribution-grid-snake-dark.gif?palette=github-dark
+          output: output/github-contribution-grid-snake.svg
+          palette: github-light
+
+      - name: Generate Snake Animation (dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: rojeshhumagain
+          output: output/github-contribution-grid-snake-dark.svg
+          palette: github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
