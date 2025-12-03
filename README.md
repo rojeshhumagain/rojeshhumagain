@@ -39,10 +39,10 @@ Passionate **BSc.CSIT graduate** and **Backend Developer** specializing in **Pyt
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,bootstrap&theme=dark&perline=8)
 
 **Databases**  
-![Databases](https://skillicons.dev/icons?i=mysql,mssql,mongodb,sqlite,postgres&theme=dark&perline=5)
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&theme=dark&perline=5)
 
 **Tools & Platforms**  
-![Tools](https://skillicons.dev/icons?i=linux,git,github,photoshop,figma,canva,autocad&theme=dark&perline=7)
+![Tools](https://skillicons.dev/icons?i=linux,git,github,photoshop,figma,autocad&theme=dark&perline=7)
 
 **Soft Skills**  
 Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Communication Skills, Critical Thinking
