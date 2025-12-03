@@ -1,32 +1,59 @@
-# <p align="center">ROJESH HUMAGAIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></p>
+<h1 align="center">ROJESH HUMAGAIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h1>
 
-### <p align="center">Python & Django Specialist • Full-Stack Developer • CSIT Graduate</p>
+<h3 align="center">• Learner • Developer • Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=4000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Backend+Engineer+🎯;Full-Stack+Developer+⚡;Python+Django+Expert+🚀;Problem+Solver+💡;Tech+Enthusiast+🔥"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=CSIT+STUDENT+🎯;BACKEND+DEVELOPER+🚀;PROBLEM+SOLVER+💡;TECH+ENTHUSIAST+🔥"/>
 </p>
 
+---
+
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=rojeshhumagain"><img src="https://img.shields.io/badge/PROFILE%20VISITORS-FF00FF?style=for-the-badge&logo=ghost&logoColor=white"/></a>
-  <a href="https://github.com/rojeshhumagain?tab=followers"><img src="https://img.shields.io/badge/GITHUB%20FOLLOWERS-00FFEA?style=for-the-badge&logo=github&logoColor=000"/></a>
-  <a href="https://github.com/rojeshhumagain?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-FFFF00?style=for-the-badge&logo=github&logoColor=000"/></a>
-  <a href="https://rojeshhumagain.com.np"><img src="https://img.shields.io/badge/Portfolio-00FF80?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <!-- PROFILE VISITORS (komarev) -->
+  <a href="https://github.com/rojeshhumagain" target="_blank">
+    <img
+      src="https://komarev.com/ghpvc/?username=rojeshhumagain&style=for-the-badge&color=00FFFF"
+      alt="Profile Visitors"
+      />
+  </a>
+  <!-- GITHUB FOLLOWERS (shields - works out of the box) -->
+  <a href="https://github.com/rojeshhumagain?tab=followers" target="_blank" style="margin-left:10px;">
+    <img
+      src="https://img.shields.io/github/followers/rojeshhumagain?style=for-the-badge&label=Followers&logo=github&color=FF00FF"
+      alt="GitHub Followers" />
+  </a>
+  <!-- PUBLIC REPOS (dynamic JSON via shields -> reads GitHub API) -->
+  <a href="https://github.com/rojeshhumagain?tab=repositories" target="_blank" style="margin-left:10px;">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/rojeshhumagain&style=for-the-badge&color=FFFF00"
+      alt="Public Repos" />
+  </a>
+
 </p>
 
 ---
 
 ## ✨ About Me ✨
-Passionate **BSc.CSIT graduate** and **Backend Developer** specializing in **Python, Django, and PHP Laravel**. Experienced in building **robust web applications**, **REST APIs**, and **database management systems**. Exploring **AI/ML integration** and **Web3 technologies** to deliver futuristic solutions.
+Junior **Backend Developer** | **Python & Django Enthusiast**  
+BSc.CSIT student with hands-on experience building backend systems using **Python, Django, and MySQL**. Skilled in developing **REST APIs**, integrating databases, and managing server-side logic. Strong problem-solving skills with experience in both academic and freelance web projects.
 
----
-
-## 🎓 Education 🎓
-
-| Level | College Details | Course | GPA |
-|-------|-----------------|--------|-----|
-| Bachelor | Academia International College, Gwarko-Lalitpur <br/> Feb 2023 - Present | BSc.CSIT | 3.35 |
-| +2 Science | Canvas International College, Basundhara, Kathmandu <br/> Aug 2020 - Aug 2022 | Science | 3.39 |
-| SEE | Shree Rastriya Secondary School, Kakani-8, Nuwakot <br/> Mar 2009 - Feb 2019 | Basic | 3.45 |
+<p align="center">
+  <a href="https://rojeshhumagain.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-00FF80?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00ffcc" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/rojesh-humagain-0244372b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/rojeshhumagain">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/rojeshhumagain">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:lxurojesh.humagain02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -46,6 +73,16 @@ Passionate **BSc.CSIT graduate** and **Backend Developer** specializing in **Pyt
 
 **Soft Skills**  
 Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Communication Skills, Critical Thinking
+
+---
+
+## 🎓 Education 🎓
+
+| Level | College Details | Course | GPA |
+|-------|-----------------|--------|-----|
+| Bachelor | Academia International College, Gwarko-Lalitpur <br/> Feb 2023 - Present | BSc.CSIT | 3.35 |
+| +2 Science | Canvas International College, Basundhara, Kathmandu <br/> Aug 2020 - Aug 2022 | Science | 3.39 |
+| SEE | Shree Rastriya Secondary School, Kakani-8, Nuwakot <br/> Mar 2009 - Feb 2019 | Basic | 3.45 |
 
 ---
 
