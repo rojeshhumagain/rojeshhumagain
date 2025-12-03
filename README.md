@@ -1,4 +1,4 @@
-<!-- Rojesh Humagain - 2025 Futuristic Profile README -->
+<!-- Rojesh Humagain - 2025 Futuristic GitHub Profile README -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
@@ -45,15 +45,19 @@
 ## 📊 Skill Matrix 2025
 
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Backend','Frontend','Databases','DevOps/Tools'],datasets:[{data:[92,82,88,78],backgroundColor:['#00ffea','#ff00ff','#ffff00','#00ff80'],borderColor:'#000',borderWidth:2}]},options:{plugins:{title:{display:true,text:'Rojesh\'s Skill Matrix 2025',color:'#fff',font:{size:20}},legend:{labels:{color:'#fff',font:{size:14}}}}},backgroundColor:'#000',width:500,height:500}&format=svg" alt="Skill Pie Chart"/>
+  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'Backend'%2C'Frontend'%2C'Databases'%2C'DevOps%2FTools'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B92%2C82%2C88%2C78%5D%2CbackgroundColor%3A%5B'%2300ffea'%2C'%23ff00ff'%2C'%23ffff00'%2C'%2300ff80'%5D%2CborderColor%3A'%23000'%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Btitle%3A%7Bdisplay%3Atrue%2Ctext%3A'Rojesh%27s%20Skill%20Matrix%202025'%2Ccolor%3A'%23fff'%2Cfont%3A%7Bsize%3A20%7D%7D%2Clegend%3A%7Blabels%3A%7Bcolor%3A'%23fff'%2Cfont%3A%7Bsize%3A14%7D%7D%7D%7D%7D%7D&backgroundColor=%23000&width=500&height=500" alt="Skill Pie Chart"/>
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojeshhumagain&theme=react-dark&hide_border=true&show_icons=true&point=00ffff&area=true&line=00ffea" alt="Rojesh's GitHub Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojeshhumagain/rojeshhumagain/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojeshhumagain/rojeshhumagain/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rojeshhumagain/rojeshhumagain/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
@@ -65,18 +69,6 @@
 | AI E-commerce Platform     | Django • TensorFlow • PostgreSQL       | [Repo](https://github.com/rojeshhumagain/ai-ecommerce) |
 | VR Travel Booking          | Laravel • VR.js • MySQL                | [Repo](https://github.com/rojeshhumagain/vr-tour)     |
 | Smart Health AI            | FastAPI • React • MongoDB • NLP        | [Repo](https://github.com/rojeshhumagain/smart-health) |
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojeshhumagain/rojeshhumagain/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojeshhumagain/rojeshhumagain/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/rojeshhumagain/rojeshhumagain/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
 
 ---
 
