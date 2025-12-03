@@ -4,7 +4,7 @@
 
 ### <p align="center"><i>"Build boldly—your code is the spark that rewrites the future."</i></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=CSIT+STUDENT+🎯;BACKEND+DEVELOPER+🚀;PROBLEM+SOLVER+💡;TECH+ENTHUSIAST+🔥"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=CSIT+STUDENT+🎯;DEVELOPER+🚀;PROBLEM+SOLVER+💡;Learner+🔥"/>
 </p>
 
 
