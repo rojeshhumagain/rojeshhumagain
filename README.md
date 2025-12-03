@@ -1,3 +1,5 @@
+---
+
 <h1 align="center">ROJESH HUMAGAIN</h1>
 
 ---
@@ -111,15 +113,16 @@ Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Com
 ---
 
 ## 📊 GitHub Analytics 📊
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojeshhumagain&show_icons=true&theme=radical&border_color=00ffff&bg_color=0D1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojeshhumagain&layout=compact&theme=radical&border_color=ff00ff&bg_color=0D1117&title_color=00ffea&text_color=ffffff" width="49%"/>
+
+  <!-- Contribution Graph (Working Version) -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rojeshhumagain&theme=react-dark&bg_color=0D1117&color=00ffff&line=ff00ff&point=ffff00&area=true&hide_border=true"
+    width="100%"
+  />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojeshhumagain&theme=react-dark&bg_color=0D1117&color=00ffff&line=ff00ff&point=ffff00&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="100%"/>
-</p>
 
 ---
 
